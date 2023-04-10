@@ -27,3 +27,8 @@
 .dream-job {
   color: #9873ff;
 }
+@media only screen and (max-width: 576px) {
+  .home {
+    flex-direction: column;
+  }
+}

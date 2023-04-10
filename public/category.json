@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1a3f7b9e",
+    "logo": "https://cdn-icons-png.flaticon.com/512/888/888863.png?w=826&t=st=1681139421~exp=1681140021~hmac=d33e3acf20d924e55f3b1a4f5d4240f60bc6fc857a7beb29f677bedde2c5e7b9",
+    "name": "Technology",
+    "jobsAvailable": 1000
+  },
+  {
+    "id": "8c2d6f50",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1027/1027836.png?w=826&t=st=1681139490~exp=1681140090~hmac=48edd494edfff49d23436e5eedaec313564e80b5239935b50d70c9a5210f38ec",
+    "name": "Finance",
+    "jobsAvailable": 800
+  },
+  {
+    "id": "b4e9dca2",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1218/1218575.png?w=826&t=st=1681139539~exp=1681140139~hmac=fc07c8f1381438a168ddcb9be28a0ce4b5c9fdd5a041c5f30169421628c13046",
+    "name": "Healthcare",
+    "jobsAvailable": 1200
+  },
+  {
+    "id": "f6a05813",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1245/1245120.png?w=826&t=st=1681139578~exp=1681140178~hmac=0bbf45c15b365721873b2bfde9d963e9d32563ba3dfc21a0c835f3e6a8f18f40",
+    "name": "Education",
+    "jobsAvailable": 600
+  }
+]

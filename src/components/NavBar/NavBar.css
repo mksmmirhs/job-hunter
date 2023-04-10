@@ -26,6 +26,10 @@ nav {
 .links a {
   text-decoration: none;
   margin-right: 30px;
+  color: #757575;
+}
+.links a:active {
+  color: #7e90fe;
 }
 .container {
   margin: 0 auto;
@@ -39,4 +43,13 @@ nav {
   border: 0;
   background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
   border-radius: 8px;
+}
+@media only screen and (max-width: 576px) {
+  nav {
+    flex-direction: column;
+  }
+  .links {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
 }
