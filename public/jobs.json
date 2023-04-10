@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "company_logo": "https://img.freepik.com/free-photo/happy-new-year-2022-3d-render-transparent-psd-file_460848-6844.jpg?w=1380&t=st=1681149283~exp=1681149883~hmac=6496d3dd1b8f8e6dd12f109f9306cdd45a6195de048d06e6f9bf84b4a1eb73d8",
+    "job_title": "Software Engineer",
+    "company_name": "ABC Software",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $120,000 per year",
+    "job_description": "ABC Software is seeking a talented Software Engineer to join our team...",
+    "job_responsibility": "Design and develop software applications, Collaborate with cross-functional teams...",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "contact_information": {
+      "phone": "123-456-7890",
+      "email": "careers@abcsoftware.com"
+    }
+  },
+  {
+    "id": 2,
+    "company_logo": "https://img.freepik.com/free-psd/dark-fashion-logo-mock-up_1097-15.jpg?w=826&t=st=1681149299~exp=1681149899~hmac=1fedb24c5bb303799857487232296a2581c74643bc890b01406cb255bff26443",
+    "job_title": "Data Scientist",
+    "company_name": "XYZ Analytics",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000 per year",
+    "job_description": "XYZ Analytics is looking for a Data Scientist to analyze data and generate insights...",
+    "job_responsibility": "Develop machine learning models, Perform data analysis and visualization...",
+    "educational_requirements": "Master's or PhD in a quantitative field such as Statistics or Computer Science",
+    "experiences": "2+ years of experience in data science",
+    "contact_information": {
+      "phone": "987-654-3210",
+      "email": "hr@xyzanalytics.com"
+    }
+  },
+  {
+    "id": 3,
+    "company_logo": "https://img.freepik.com/premium-psd/bricks-texture-logo-effect-design_23-2149238757.jpg?w=1380",
+    "job_title": "Marketing Manager",
+    "company_name": "123 Marketing",
+    "remote_or_onsite": "Remote",
+    "location": "Chicago, IL",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$70,000 - $90,000 per year",
+    "job_description": "123 Marketing is seeking a Marketing Manager to develop and implement marketing strategies...",
+    "job_responsibility": "Create marketing campaigns, Analyze market trends and competitor data...",
+    "educational_requirements": "Bachelor's degree in Marketing or related field",
+    "experiences": "5+ years of experience in marketing",
+    "contact_information": {
+      "phone": "456-789-0123",
+      "email": "jobs@123marketing.com"
+    }
+  },
+  {
+    "id": 4,
+    "company_logo": "https://img.freepik.com/free-psd/light-sign-wall-text-effect_125540-2561.jpg?w=1060&t=st=1681149318~exp=1681149918~hmac=76e9ee6bfc336c8cc2224d3f05991cd5c62eaf0f4b32a836a435ed67e1f110e5",
+    "job_title": "Product Manager",
+    "company_name": "XYZ Tech",
+    "remote_or_onsite": "Onsite",
+    "location": "Seattle, WA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$120,000 - $140,000 per year",
+    "job_description": "XYZ Tech is seeking an experienced Product Manager to drive product strategy and development...",
+    "job_responsibility": "Define product roadmap, Conduct market research and customer analysis...",
+    "educational_requirements": "Bachelor's degree in Business or related field",
+    "experiences": "5+ years of experience in product management",
+    "contact_information": {
+      "phone": "123-456-7890",
+      "email": "careers@xyztech.com"
+    }
+  },
+  {
+    "id": 5,
+    "company_logo": "https://img.freepik.com/free-psd/3d-wood-logo-effect-music-studio-modern-professional-template-psd_53876-154905.jpg?w=1380&t=st=1681149329~exp=1681149929~hmac=fa7bae1d9ad811b66f10f6cced71a9dd9d654906f92ee7c8f63bbfd6d6c817db",
+    "job_title": "UX/UI Designer",
+    "company_name": "ABC Design Studio",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$80,000 - $100,000 per year",
+    "job_description": "ABC Design Studio is looking for a talented UX/UI Designer to create intuitive and visually appealing user experiences...",
+    "job_responsibility": "Design wireframes and prototypes, Conduct user research and usability testing...",
+    "educational_requirements": "Bachelor's degree in Design or related field",
+    "experiences": "3+ years of experience in UX/UI design",
+    "contact_information": {
+      "phone": "987-654-3210",
+      "email": "hr@abcdesignstudio.com"
+    }
+  },
+  {
+    "id": 6,
+    "company_logo": "https://img.freepik.com/free-psd/wood-text-style-effect_35913-2116.jpg?w=1380&t=st=1681149338~exp=1681149938~hmac=df6374c5e5f3e92fa627cac0ddee37b3fbc8fab2a09811a39bebaaf600ee4286",
+    "job_title": "Data Engineer",
+    "company_name": "123 Data Solutions",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $120,000 per year",
+    "job_description": "123 Data Solutions is seeking a skilled Data Engineer to build and maintain data pipelines and ETL processes...",
+    "job_responsibility": "Design and implement scalable data solutions, Optimize database performance...",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "4+ years of experience in data engineering",
+    "contact_information": {
+      "phone": "456-789-0123",
+      "email": "jobs@123datasolutions.com"
+    }
+  }
+]
