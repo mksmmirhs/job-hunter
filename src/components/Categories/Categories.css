@@ -17,6 +17,7 @@
   color: #757575;
 }
 .categories-item {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 25px;
 }

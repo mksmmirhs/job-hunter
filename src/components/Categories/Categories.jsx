@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Categories.css';
+import Category from '../Category/Category';
 const Categories = () => {
   const [categories, serCategories] = useState([]);
   useEffect(() => {
@@ -14,7 +15,11 @@ const Categories = () => {
         Explore thousands of job opportunities with all the information you
         need. Its your future
       </p>
-      <div className="categories-item"></div>
+      <div className="categories-item">
+        {categories.map(category => (
+          <Category key={category.id} category={category}></Category>
+        ))}
+      </div>
     </div>
   );
 };
