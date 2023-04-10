@@ -1,0 +1,30 @@
+.featured-jobs {
+  max-width: 1200px;
+  margin: 0 auto 30px auto;
+  text-align: center;
+}
+.featured-jobs h1 {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 66px;
+  color: #1a1919;
+}
+.featured-jobs p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: #757575;
+}
+.job-display {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 576px) {
+  .job-display {
+    grid-template-columns: 1fr;
+  }
+}

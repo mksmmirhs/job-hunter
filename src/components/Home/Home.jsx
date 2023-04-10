@@ -7,7 +7,6 @@ import FeaturedJobs from '../FeaturedJobs/FeaturedJobs';
 const Home = () => {
   const jobsInitial = useLoaderData();
   const [jobs, setJobs] = useState(jobsInitial.slice(0, 4));
-  console.log(jobs);
   const showAllJob = () => {
     setJobs(jobsInitial);
   };
@@ -16,11 +15,20 @@ const Home = () => {
       <Header></Header>
       <Categories></Categories>
       <div className="featured-jobs">
-        {jobs.map(job => (
-          <FeaturedJobs key={job.id}></FeaturedJobs>
-        ))}
+        <h1>Featured Jobs</h1>
+        <p>
+          Explore thousands of job opportunities with all the information you
+          need. Its your future
+        </p>
+        <div className="job-display">
+          {jobs.map(job => (
+            <FeaturedJobs key={job.id} job={job}></FeaturedJobs>
+          ))}
+        </div>
+        <button className="btn-common" onClick={showAllJob}>
+          See All Jobs
+        </button>
       </div>
-      <button onClick={showAllJob}>See All Jobs</button>
     </div>
   );
 };
