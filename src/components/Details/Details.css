@@ -4,9 +4,11 @@
   margin-bottom: 100px;
 }
 .details-body {
-  max-width: 1200px;
-  margin: 130px auto 0 auto;
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: 24px;
+}
+.body {
+  max-width: 1200px;
+  margin: 130px auto 30px auto;
 }

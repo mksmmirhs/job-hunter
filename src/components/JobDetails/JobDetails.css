@@ -1,0 +1,30 @@
+.job-details-component {
+  background: linear-gradient(
+    90deg,
+    rgba(126, 144, 254, 0.1) 0%,
+    rgba(152, 115, 255, 0.1) 100%
+  );
+  border-radius: 8px;
+  padding: 30px;
+}
+
+.job-details-component h2 {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 27px;
+  color: #1a1919;
+}
+.details-icon {
+  color: #7e90fe;
+}
+.btn-apply {
+  margin-top: 25px;
+  color: white;
+  background: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  border-radius: 8px;
+  font-weight: 800;
+  font-size: 20px;
+  width: 100%;
+  border: none;
+  padding: 20px;
+}
