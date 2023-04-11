@@ -7,6 +7,7 @@ const NavBar = () => {
       <nav>
         <div className="logo">JobHunter</div>
         <div className="links">
+          <Link to="/">Home</Link>
           <Link to="statistics">Statistics</Link>
           <Link to="apply">Applied Jobs</Link>
           <Link to="blog">Blog</Link>
