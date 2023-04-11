@@ -1,0 +1,16 @@
+.applied-job-container {
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  padding: 30px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.applied-job-container img {
+  height: 240px;
+  width: 240px;
+}
+.applied-job-details {
+  flex-grow: 1;
+}
